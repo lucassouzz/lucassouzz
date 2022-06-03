@@ -15,7 +15,6 @@
   <img align="center" alt="LucasDeSouza-Tomcat" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original-wordmark.svg" />
 
   ## Estudando:
-  <img align="center" alt="LucasDeSouza-TypeScript" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
 <img align="center" alt="LucasDeSouza-React" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
 <img align="center" alt="LucasDeSouza-NodeJS" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
 <img align="center" alt="LucasDeSouza-Python" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
