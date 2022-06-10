@@ -17,7 +17,7 @@ Que bom ter você por aqui, abaixo tem algumas informações interessantes e meu
 
 
   
-  ##
+  ###
 
  <div align="center"> 
   <a href="https://www.linkedin.com/in/lucassouzz/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
